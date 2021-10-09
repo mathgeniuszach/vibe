@@ -45,7 +45,7 @@
             [null, "lichen_you_moss.png"],
             [null, "happy_on_sad.png"]
         ],
-        "(what( ?i|'?)s on you('?re?) mind\\??|what are you thinking( about)?\\??)": [
+        "(what( ?i|'?)s on you('?re?) mind\\??|what are you thinking( about)?\\??|what'?s up\\??)": [
             ":turtle: Exploring the vast internet... climbing the mount everest that is redundant turtle memes... to find the diamonds in the rough",
             [":turtle: MWAHAHAHAHA!", "world_domination.png"],
             [":turtle: :thinking: Trying to think of ways to share my brillance with the world", "be_like_turtle.png"],
