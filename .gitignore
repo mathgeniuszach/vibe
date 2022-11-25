@@ -1,3 +1,27 @@
-ffmpeg.exe
-__pycache__/**
+# Don't include compiled python stuff
+__pycache__
+*.pyc
 *.py
+
+# Don't include IDE stuff
+.vscode
+
+# Don't include build and dist data and files
+upx
+fpcurator.spec
+build
+.venv.bat
+_*
+dist
+etc
+share
+
+# Don't include python venv data
+Include
+Lib
+Scripts
+pyvenv.cfg
+
+# Don't include ffmpeg
+ffmpeg.exe
+vibe.exe

@@ -22,7 +22,13 @@
             ":eyes: don't bring me into this :turtle:"
             ":eyes: I'm not here :zipper_mouth:"
             ":eyes: Sure"
-            ["Maybe, but you'll have to convince me first :stuck_out_tounge:", "come_at_me_bro.png"]
+            ["Maybe, but you'll have to convince me first :stuck_out_tongue:", "come_at_me_bro.png"]
+        ],
+        ".*?hello": [
+            ":turtle: Hello!",
+            ":turtle: Yo :smile:",
+            ":turtle: Hey!",
+            ":turtle: Heyo!"
         ],
         "how are you": [
             ":turtle: I'm vibing :grin:"
@@ -85,7 +91,7 @@
             ":turtle: The largest turtles weigh more than a thousand pounds. You aren’t going to find these in your neighborhood pet store tank, but the largest sea turtle species—the leatherback turtle—can weigh between 600 and 2,000 pounds and grow up to 8 feet in length.",
             ":turtle: Turtles have a second shell. Besides their outer shell, turtles also have a lower shell, called a plastron. The plastron usually joins with the upper shell—called the carapace—along both sides of the body to create a complete skeletal box.",
             ":turtle: Turtles aren’t silent. Although they’re not likely to be as loud as dogs or cats, turtles do make a range of noises, anything from chicken-like clucks to dog-like barking, depending on the species.",
-            ":turtle: In some species, whether determines if turtle eggs become male or female. In certain species of turtles, within a viable range, lower temperatures lead to male eggs hatching, while higher temperatures lead to female hatchlings.",
+            ":turtle: In some species, weather determines if turtle eggs become male or female. In certain species of turtles, within a viable range, lower temperatures lead to male eggs hatching, while higher temperatures lead to female hatchlings.",
             ":turtle: Turtles lose their first “baby tooth” within an hour. Baby turtles, called hatchlings, have an “egg tooth” on their beak to help them hatch out of their shell. This tooth disappears approximately an hour after hatching.",
             ":turtle: Green sea turtles have a more plant-based diet and eat seagrass. By keeping seagrass short, they prevent it from getting tall and harming other marine creatures.",
             ":turtle: Sea Turtles can hold their breath for five hours underwater.\nTo accomplish this mighty feat they slow their heart rate to up to nine minutes in between heart beats in order to conserve oxygen.",
