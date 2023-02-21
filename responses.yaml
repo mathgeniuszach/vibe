@@ -75,7 +75,7 @@ hype-check:
       - whats? up
 
     response:
-      - ":turtle: Exploring the vast internet... climbing the mount everest that is redundant turtle memes... to find the diamonds in the rough",
+      - ":turtle: Exploring the vast internet... climbing the mount everest that is redundant turtle memes... to find the diamonds in the rough"
       - message: ":turtle: MWAHAHAHAHA!"
         image: "world_domination.png"
       - message: ":turtle: :thinking: Trying to think of ways to share my brillance with the world"
