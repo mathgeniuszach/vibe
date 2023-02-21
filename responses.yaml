@@ -38,6 +38,32 @@ isnt-that-right:
       - message: "You'll have to convince me of that first :stuck_out_tongue:"
         image: "come_at_me_bro.png"
 
+thoughts:
+    mentions: 895518336459354174
+    message:
+      - what ?i?s on youre? mind
+      - what ?a?re? (ya|you) thinking( about)?
+      - whats? up
+
+    response:
+      - ":turtle: Exploring the vast internet... climbing the mount everest that is redundant turtle memes... to find the diamonds in the rough"
+      - message: ":turtle: MWAHAHAHAHA!"
+        image: "world_domination.png"
+      - message: ":turtle: :thinking: Trying to think of ways to share my brillance with the world"
+        image: "be_like_turtle.png"
+      - message: ":turtle: I wanna own a skateboard"
+        image: "skateboard.png"
+      - image: "rawr.png"
+      - message: ":turtle: This cute little guy :heart:"
+        image: "strawberry.png"
+      - message: ":turtle: Our powers combined!!!"
+        image: "turtle_stack.png"
+      - message: ":turtle: :pineapple:"
+        image: "pineapple.png"
+      - image: "sombrero.png"
+      - message: ":turtle: Hello! :boom:"
+        image: "mine_turtle.png"
+
 hello:
     mentions: 895518336459354174
     message: ^(well )?(hello|heyo?|yo|hi(ya)?(yo)?)
@@ -67,31 +93,17 @@ hype-check:
       - image: "lichen_you_moss.png"
       - image: "happy_on_sad.png"
 
-thoughts:
+how-are-you:
     mentions: 895518336459354174
-    message:
-      - what ?i?s on youre? mind
-      - what ?a?re (ya|you) thinking( about)?
-      - whats? up
+    message: how (are |r )?(you|ya) doing
 
     response:
-      - ":turtle: Exploring the vast internet... climbing the mount everest that is redundant turtle memes... to find the diamonds in the rough"
-      - message: ":turtle: MWAHAHAHAHA!"
-        image: "world_domination.png"
-      - message: ":turtle: :thinking: Trying to think of ways to share my brillance with the world"
-        image: "be_like_turtle.png"
-      - message: ":turtle: I wanna own a skateboard"
-        image: "skateboard.png"
-      - image: "rawr.png"
-      - message: ":turtle: This cute little guy :heart:"
-        image: "strawberry.png"
-      - message: ":turtle: Our powers combined!!!"
-        image: "turtle_stack.png"
-      - message: ":turtle: :pineapple:"
-        image: "pineapple.png"
-      - image: "sombrero.png"
-      - message: ":turtle: Hello! :boom:"
-        image: "mine_turtle.png"
+      - ":turtle: Pretty good."
+      - ":turtle: Great!"
+      - ":turtle: Turtlely Tubular!"
+      - ":turtle: I'm doing great."
+      - ":turtle: I'm having fun!"
+      - ":turtle: Good."
 
 joke:
     mentions: 895518336459354174
