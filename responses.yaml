@@ -67,7 +67,7 @@ hype-check:
       - image: "lichen_you_moss.png"
       - image: "happy_on_sad.png"
 
-hype-check:
+thoughts:
     mentions: 895518336459354174
     message:
       - what ?i?s on youre? mind
@@ -93,7 +93,7 @@ hype-check:
       - message: ":turtle: Hello! :boom:"
         image: "mine_turtle.png"
 
-hype-check:
+joke:
     mentions: 895518336459354174
     message: tell me a (funny )?joke
 
