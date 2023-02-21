@@ -175,3 +175,10 @@ turtle-fact:
       - ":turtle: Most painted turtles hibernate on the bottom of ponds and lakes, holding their breath all winter."
       - ":turtle: You can count the rings on a painted turtle to see its age, just like a tree."
       - ":turtle: The painted turtle is the most common species in North America."
+
+react:
+    mentions: 895518336459354174
+
+    response:
+      - react: 👀
+      - react: 🐢
