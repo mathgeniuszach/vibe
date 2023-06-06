@@ -4,7 +4,9 @@
 birthday:
     author: 309558679282122754 # Airheart#4616
     mentions: true
-    message: happy birthday
+    message:
+      - happy.*?birthday
+      - birthday.*?happy
     
     response:
       - ":turtle: Happy birthday {mentions}! Hope you have a turtletacular day."
@@ -31,6 +33,9 @@ birthday:
 birthday2:
     author: 421861548458246156 # mathgeniuszach#5572
     mentions: 309558679282122754 # Airheart#4616
+    message:
+      - happy.*?birthday
+      - birthday.*?happy
     
     response:
       - ":turtle: Happy birthday {mentions}! Hope you have a turtletacular day."
