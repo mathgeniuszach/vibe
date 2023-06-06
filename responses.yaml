@@ -2,7 +2,8 @@
 # in lowercase, without punctuation, with spaces reduced to just 1 per group.
 
 birthday:
-    author: Airheart#4616
+    author: 309558679282122754 # Airheart#4616
+    mentions: true
     message: happy birthday
     
     response:
@@ -26,6 +27,40 @@ birthday:
         image: "turtley_awesome_birthday.png"
       - message: ":turtle: Happy birthday {mentions}!"
         image: "spinning_turtle.png"
+
+birthday2:
+    author: 421861548458246156 # mathgeniuszach#5572
+    mentions: 309558679282122754 # Airheart#4616
+    
+    response:
+      - ":turtle: Happy birthday {mentions}! Hope you have a turtletacular day."
+      - ":turtle: Happy birthday {mentions}! You are turtley amazing!!!"
+      - ":turtle: Happy birthday {mentions}! I hope your birthday is super speshell with a side of seaweed!"
+      - ":turtle: Happy birthday {mentions}! Here's to your birthday not being a turtle disaster. :upside_down:"
+      - ":turtle: Happy birthday {mentions}! It's your birthday, so it's time to shell-ibrate!"
+      - ":turtle: Happy birthday {mentions}! I turtley can't believe you're so old! Happy birthday!"
+      - ":turtle: Happy birthday {mentions}! You are turtletastic!"
+      - ":turtle: Happy birthday {mentions}! Lettuce have fun!"
+      - ":turtle: Happy birthday {mentions}! Hope it's as awesome and epic as my shell!"
+      - ":turtle: Happy birthday {mentions}! Thanks for being such an awesome turtle friend."
+      - ":turtle: Happy birthday {mentions}! The best birthdays are with a turtle! :slight_smile:"
+      - ":turtle: Happy birthday {mentions}! I hope you shell have many more!"
+      - message: ":turtle: Happy birthday {mentions}!"
+        image: "lettuce_celebrate.png"
+      - message: ":turtle: Happy birthday {mentions}!"
+        image: "painted_birthday.png"
+      - message: ":turtle: Happy birthday {mentions}!"
+        image: "turtley_awesome_birthday.png"
+      - message: ":turtle: Happy birthday {mentions}!"
+        image: "spinning_turtle.png"
+
+working:
+    author: 421861548458246156 # mathgeniuszach#5572
+    mentions: 895518336459354174
+    message: beep boop
+
+    response:
+      - ":robot: robitic vibes. beep boop"
 
 isnt-that-right:
     mentions: 895518336459354174
@@ -107,7 +142,7 @@ how-are-you:
 
 joke:
     mentions: 895518336459354174
-    message: tell me a (funny )?joke
+    message: (tell|show|give|provide) .*? joke
 
     response:
       - ":turtle: Looking for jokes? I've got just the shellection for you!"
