@@ -60,7 +60,7 @@ working:
     message: beep boop
 
     response:
-      - ":robot: robitic vibes. beep boop"
+      - ":robot: robotic vibes. beep boop"
 
 isnt-that-right:
     mentions: 895518336459354174
