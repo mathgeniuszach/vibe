@@ -106,7 +106,7 @@ thoughts:
 
 hello:
     mentions: 895518336459354174
-    message: ^(well )?(hello|heyo?|yo|hi(ya)?(yo)?)
+    message: ^(well )?(hello|heyo?|yo|hi(ya)?(yo)?|sup)
 
     response:
       - ":turtle: Hello!"
@@ -117,7 +117,7 @@ hello:
 
 hype-check:
     mentions: 895518336459354174
-    message: (give me a )?hype( check)?"
+    message: .*?(hype|wo+|yay).*?
 
     response:
       - ":turtle: Yayyyyyy!!! :smile:"
@@ -135,7 +135,7 @@ hype-check:
 
 how-are-you:
     mentions: 895518336459354174
-    message: how (are |r )?(you|ya) doing
+    message: how (are |r )?(you|ya|u)( doing)?
 
     response:
       - ":turtle: Pretty good."
@@ -147,7 +147,7 @@ how-are-you:
 
 joke:
     mentions: 895518336459354174
-    message: (tell|show|give|provide) .*? joke
+    message: (tell|show|give|provide).*?joke
 
     response:
       - ":turtle: Looking for jokes? I've got just the shellection for you!"
@@ -173,7 +173,7 @@ joke:
 
 turtle-fact:
     mentions: 895518336459354174
-    message: ((tell|give|show)? me )?(an? )?(something |some )?(random|interesting)? ?(turtle fact|fact|about turtles)
+    message: ((tell|give|show)? me )?(an? )?(something |some )?(random|interesting)? ?(turtle facts?|facts?|about turtles)
     
     response:
       - ":turtle: Just like your bones, a turtle's shell is actually part of its skeleton. It's made up of over 50 bones which include the turtle's rib cage and spine."
