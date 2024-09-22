@@ -103,6 +103,8 @@ thoughts:
       - image: "sombrero.png"
       - message: ":turtle: Hello! :boom:"
         image: "mine_turtle.png"
+        message: ":turtle: I want to share my happiness with the world :D"
+      - image: "happy_on_sad.png"
 
 hello:
     mentions: 895518336459354174
@@ -131,7 +133,6 @@ hype-check:
       - ":turtle: The hype is strong with this one :grin:"
       - ":turtle: Yo mama is hype! :grin:"
       - image: "lichen_you_moss.png"
-      - image: "happy_on_sad.png"
 
 how-are-you:
     mentions: 895518336459354174
